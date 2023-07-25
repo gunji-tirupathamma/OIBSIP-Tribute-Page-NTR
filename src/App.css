@@ -1,0 +1,14 @@
+.App {
+  display: flex;flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  padding: 20px;
+
+}
+
+thead{
+  background-color: #e6b0f5;
+  text-align: center;
+  font-weight: bold;
+}
+
